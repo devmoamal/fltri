@@ -1,7 +1,7 @@
 [
     {
       "id": "sunset_glow",
-      "name_en": "Sunset Glow",
+      "name": "Sunset Glow",
       "name_ar": "وهج الغروب",
       "type": "COLOR_MATRIX",
       "category": "Warm",
@@ -34,7 +34,7 @@
     },
     {
       "id": "icy_blue",
-      "name_en": "Icy Blue",
+      "name": "Icy Blue",
       "name_ar": "أزرق جليدي",
       "type": "COLOR_MATRIX",
       "category": "Cold",
@@ -67,7 +67,7 @@
     },
     {
       "id": "muted_mood",
-      "name_en": "Muted Mood",
+      "name": "Muted Mood",
       "name_ar": "مزاج خافت",
       "type": "COLOR_MATRIX",
       "category": "Minimal",
@@ -100,7 +100,7 @@
     },
     {
       "id": "neon_dream",
-      "name_en": "Neon Dream",
+      "name": "Neon Dream",
       "name_ar": "حلم النيون",
       "type": "COLOR_MATRIX",
       "category": "Fantasy",
@@ -133,7 +133,7 @@
     },
     {
       "id": "toxic_green",
-      "name_en": "Toxic Green",
+      "name": "Toxic Green",
       "name_ar": "أخضر سام",
       "type": "COLOR_MATRIX",
       "category": "Surreal",
@@ -166,7 +166,7 @@
     },
     {
       "id": "dusty_rose",
-      "name_en": "Dusty Rose",
+      "name": "Dusty Rose",
       "name_ar": "زهري غباري",
       "type": "COLOR_MATRIX",
       "category": "Vintage",
@@ -199,7 +199,7 @@
     },
     {
       "id": "golden_hour",
-      "name_en": "Golden Hour",
+      "name": "Golden Hour",
       "name_ar": "الساعة الذهبية",
       "type": "COLOR_MATRIX",
       "category": "Warm",
@@ -232,7 +232,7 @@
     },
     {
       "id": "twilight_dreams",
-      "name_en": "Twilight Dreams",
+      "name": "Twilight Dreams",
       "name_ar": "أحلام الشفق",
       "type": "COLOR_MATRIX",
       "category": "Fantasy",
@@ -265,7 +265,7 @@
     },
     {
       "id": "shadow_highlight",
-      "name_en": "Shadow Highlight",
+      "name": "Shadow Highlight",
       "name_ar": "تمييز الظلال",
       "type": "COLOR_MATRIX",
       "category": "Cinematic",
@@ -298,7 +298,7 @@
     },
     {
       "id": "mono_soft",
-      "name_en": "Mono Soft",
+      "name": "Mono Soft",
       "name_ar": "أحادي ناعم",
       "type": "COLOR_MATRIX",
       "category": "Black & White",
@@ -331,7 +331,7 @@
     },
     {
       "id": "crimson_blaze",
-      "name_en": "Crimson Blaze",
+      "name": "Crimson Blaze",
       "name_ar": "لهيب قرمزي",
       "type": "COLOR_MATRIX",
       "category": "Warm",
@@ -364,7 +364,7 @@
     },
     {
       "id": "arctic_mist",
-      "name_en": "Arctic Mist",
+      "name": "Arctic Mist",
       "name_ar": "ضباب القطب",
       "type": "COLOR_MATRIX",
       "category": "Cold",
@@ -397,7 +397,7 @@
     },
     {
       "id": "sepia_dream",
-      "name_en": "Sepia Dream",
+      "name": "Sepia Dream",
       "name_ar": "حلم سيبيا",
       "type": "COLOR_MATRIX",
       "category": "Vintage",
@@ -430,7 +430,7 @@
     },
     {
       "id": "lavender_haze",
-      "name_en": "Lavender Haze",
+      "name": "Lavender Haze",
       "name_ar": "ضباب الخزامى",
       "type": "COLOR_MATRIX",
       "category": "Fantasy",
@@ -463,7 +463,7 @@
     },
     {
       "id": "moody_gray",
-      "name_en": "Moody Gray",
+      "name": "Moody Gray",
       "name_ar": "رمادي كئيب",
       "type": "COLOR_MATRIX",
       "category": "Minimal",
@@ -496,7 +496,7 @@
     },
     {
       "id": "retro_gold",
-      "name_en": "Retro Gold",
+      "name": "Retro Gold",
       "name_ar": "ذهبي عتيق",
       "type": "COLOR_MATRIX",
       "category": "Vintage",
@@ -529,7 +529,7 @@
     },
     {
       "id": "deep_ocean",
-      "name_en": "Deep Ocean",
+      "name": "Deep Ocean",
       "name_ar": "محيط عميق",
       "type": "COLOR_MATRIX",
       "category": "Cold",
@@ -562,7 +562,7 @@
     },
     {
       "id": "peach_dream",
-      "name_en": "Peach Dream",
+      "name": "Peach Dream",
       "name_ar": "حلم الخوخ",
       "type": "COLOR_MATRIX",
       "category": "Warm",
@@ -595,7 +595,7 @@
     },
     {
       "id": "acid_flash",
-      "name_en": "Acid Flash",
+      "name": "Acid Flash",
       "name_ar": "وميض حامضي",
       "type": "COLOR_MATRIX",
       "category": "Surreal",
@@ -628,7 +628,7 @@
     },
     {
       "id": "storm_black",
-      "name_en": "Storm Black",
+      "name": "Storm Black",
       "name_ar": "عاصفة سوداء",
       "type": "COLOR_MATRIX",
       "category": "Cinematic",
