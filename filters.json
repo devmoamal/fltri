@@ -1,662 +1,629 @@
 [
-    {
-      "id": "sunset_glow",
-      "name": "Sunset Glow",
-      "name_ar": "وهج الغروب",
-      "type": "COLOR_MATRIX",
-      "category": "Warmx",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.3,
-        0.2,
-        0.1,
-        0,
-        0,
-        0.1,
-        1,
-        0.1,
-        0,
-        0,
-        0,
-        0.1,
-        0.9,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "icy_blue",
-      "name": "Icy Blue",
-      "name_ar": "أزرق جليدي",
-      "type": "COLOR_MATRIX",
-      "category": "Cold",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.8,
-        0.9,
-        1.2,
-        0,
-        0,
-        0.6,
-        0.8,
-        1.1,
-        0,
-        0,
-        0.4,
-        0.6,
-        1.3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "muted_mood",
-      "name": "Muted Mood",
-      "name_ar": "مزاج خافت",
-      "type": "COLOR_MATRIX",
-      "category": "Minimal",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.7,
-        0.3,
-        0.3,
-        0,
-        0,
-        0.3,
-        0.7,
-        0.3,
-        0,
-        0,
-        0.3,
-        0.3,
-        0.7,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "neon_dream",
-      "name": "Neon Dream",
-      "name_ar": "حلم النيون",
-      "type": "COLOR_MATRIX",
-      "category": "Fantasy",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.4,
-        0.2,
-        0.6,
-        0,
-        0,
-        0.2,
-        1.3,
-        0.6,
-        0,
-        0,
-        0.6,
-        0.4,
-        1.4,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "toxic_green",
-      "name": "Toxic Green",
-      "name_ar": "أخضر سام",
-      "type": "COLOR_MATRIX",
-      "category": "Surreal",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.6,
-        1.2,
-        0.3,
-        0,
-        0,
-        0.3,
-        1.4,
-        0.1,
-        0,
-        0,
-        0.1,
-        0.9,
-        0.3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "dusty_rose",
-      "name": "Dusty Rose",
-      "name_ar": "زهري غباري",
-      "type": "COLOR_MATRIX",
-      "category": "Vintage",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1,
-        0.4,
-        0.4,
-        0,
-        0,
-        0.3,
-        0.8,
-        0.4,
-        0,
-        0,
-        0.2,
-        0.3,
-        0.7,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "golden_hour",
-      "name": "Golden Hour",
-      "name_ar": "الساعة الذهبية",
-      "type": "COLOR_MATRIX",
-      "category": "Warm",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.3,
-        0.2,
-        0.1,
-        0,
-        0,
-        0.3,
-        1.1,
-        0,
-        0,
-        0,
-        0.2,
-        0.3,
-        0.9,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "twilight_dreams",
-      "name": "Twilight Dreams",
-      "name_ar": "أحلام الشفق",
-      "type": "COLOR_MATRIX",
-      "category": "Fantasy",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.9,
-        0.4,
-        0.6,
-        0,
-        0,
-        0.3,
-        0.6,
-        0.9,
-        0,
-        0,
-        0.5,
-        0.3,
-        1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "shadow_highlight",
-      "name": "Shadow Highlight",
-      "name_ar": "تمييز الظلال",
-      "type": "COLOR_MATRIX",
-      "category": "Cinematic",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.1,
-        -0.1,
-        -0.1,
-        0,
-        0,
-        -0.1,
-        1.1,
-        -0.1,
-        0,
-        0,
-        -0.1,
-        -0.1,
-        1.1,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "mono_soft",
-      "name": "Mono Soft",
-      "name_ar": "أحادي ناعم",
-      "type": "COLOR_MATRIX",
-      "category": "Black & White",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.4,
-        0.4,
-        0.4,
-        0,
-        0,
-        0.4,
-        0.4,
-        0.4,
-        0,
-        0,
-        0.4,
-        0.4,
-        0.4,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "crimson_blaze",
-      "name": "Crimson Blaze",
-      "name_ar": "لهيب قرمزي",
-      "type": "COLOR_MATRIX",
-      "category": "Warm",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.5,
-        0.1,
-        0.2,
-        0,
-        0,
-        0.2,
-        0.7,
-        0.1,
-        0,
-        0,
-        0.1,
-        0.2,
-        0.6,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "arctic_mist",
-      "name": "Arctic Mist",
-      "name_ar": "ضباب القطب",
-      "type": "COLOR_MATRIX",
-      "category": "Cold",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.6,
-        0.8,
-        1.2,
-        0,
-        0,
-        0.4,
-        0.7,
-        1,
-        0,
-        0,
-        0.3,
-        0.5,
-        1.4,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "sepia_dream",
-      "name": "Sepia Dream",
-      "name_ar": "حلم سيبيا",
-      "type": "COLOR_MATRIX",
-      "category": "Vintage",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.2,
-        1,
-        0.8,
-        0,
-        0,
-        0.5,
-        1,
-        0.4,
-        0,
-        0,
-        0.3,
-        0.5,
-        0.7,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "lavender_haze",
-      "name": "Lavender Haze",
-      "name_ar": "ضباب الخزامى",
-      "type": "COLOR_MATRIX",
-      "category": "Fantasy",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.1,
-        0.3,
-        0.9,
-        0,
-        0,
-        0.4,
-        1,
-        0.8,
-        0,
-        0,
-        0.7,
-        0.5,
-        1.2,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "moody_gray",
-      "name": "Moody Gray",
-      "name_ar": "رمادي كئيب",
-      "type": "COLOR_MATRIX",
-      "category": "Minimal",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.5,
-        0.4,
-        0.4,
-        0,
-        0,
-        0.4,
-        0.5,
-        0.4,
-        0,
-        0,
-        0.4,
-        0.4,
-        0.5,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "retro_gold",
-      "name": "Retro Gold",
-      "name_ar": "ذهبي عتيق",
-      "type": "COLOR_MATRIX",
-      "category": "Vintage",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.2,
-        0.6,
-        0.3,
-        0,
-        0,
-        0.4,
-        1.1,
-        0.2,
-        0,
-        0,
-        0.3,
-        0.5,
-        0.6,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "deep_ocean",
-      "name": "Deep Ocean",
-      "name_ar": "محيط عميق",
-      "type": "COLOR_MATRIX",
-      "category": "Cold",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.4,
-        0.5,
-        1.3,
-        0,
-        0,
-        0.2,
-        0.5,
-        1.2,
-        0,
-        0,
-        0.1,
-        0.3,
-        1.5,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "peach_dream",
-      "name": "Peach Dream",
-      "name_ar": "حلم الخوخ",
-      "type": "COLOR_MATRIX",
-      "category": "Warm",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.2,
-        0.5,
-        0.3,
-        0,
-        0,
-        0.6,
-        0.9,
-        0.3,
-        0,
-        0,
-        0.4,
-        0.3,
-        0.7,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "acid_flash",
-      "name": "Acid Flash",
-      "name_ar": "وميض حامضي",
-      "type": "COLOR_MATRIX",
-      "category": "Surreal",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        1.4,
-        0.7,
-        0.1,
-        0,
-        0,
-        0.6,
-        1.3,
-        0.2,
-        0,
-        0,
-        0.3,
-        0.5,
-        1.2,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    },
-    {
-      "id": "storm_black",
-      "name": "Storm Black",
-      "name_ar": "عاصفة سوداء",
-      "type": "COLOR_MATRIX",
-      "category": "Cinematic",
-      "intensity_range": [
-        0,
-        1
-      ],
-      "colorMatrix": [
-        0.3,
-        0.3,
-        0.3,
-        0,
-        0,
-        0.3,
-        0.3,
-        0.3,
-        0,
-        0,
-        0.3,
-        0.3,
-        0.3,
-        0,
-        0,
-        0,
-        0,
-        0,
-        1,
-        0
-      ]
-    }
-  ]
+  {
+    "id": "normal",
+    "name": "Normal",
+    "description": "No filter applied, original image",
+    "category": "basic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "grayscale",
+    "name": "Grayscale",
+    "description": "Classic black and white effect",
+    "category": "basic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.33, 0.33, 0.33, 0.0, 0.0, 0.33, 0.33, 0.33, 0.0, 0.0, 0.33, 0.33, 0.33, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "sepia",
+    "name": "Sepia",
+    "description": "Warm vintage tone with brownish tint",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.393, 0.769, 0.189, 0.0, 0.0, 0.349, 0.686, 0.168, 0.0, 0.0, 0.272, 0.534, 0.131, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0,
+      0.0
+    ]
+  },
+  {
+    "id": "vintage",
+    "name": "Vintage",
+    "description": "Classic vintage look with warm tones",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.9, 0.5, 0.1, 0.0, 0.0, 0.3, 0.8, 0.1, 0.0, 0.0, 0.2, 0.3, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "cold",
+    "name": "Cold",
+    "description": "Cool blue tones for a winter feel",
+    "category": "tones",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "warm",
+    "name": "Warm",
+    "description": "Warm orange tones for a summer feel",
+    "category": "tones",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.2, 0.0, 0.0, 0.0, 10.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "dramatic",
+    "name": "Dramatic",
+    "description": "High contrast dramatic look",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.5, 0.0, 0.0, 0.0, -50.0, 0.0, 1.5, 0.0, 0.0, -50.0, 0.0, 0.0, 1.5, 0.0, -50.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "faded",
+    "name": "Faded",
+    "description": "Soft faded look with reduced contrast",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.2, 0.2, 0.0, 30.0, 0.2, 1.0, 0.2, 0.0, 30.0, 0.2, 0.2, 1.0, 0.0, 30.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "high_contrast",
+    "name": "High Contrast",
+    "description": "Increased contrast for dramatic effect",
+    "category": "basic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      2.0, 0.0, 0.0, 0.0, -80.0, 0.0, 2.0, 0.0, 0.0, -80.0, 0.0, 0.0, 2.0, 0.0, -80.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "low_contrast",
+    "name": "Low Contrast",
+    "description": "Reduced contrast for a soft look",
+    "category": "basic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.8, 0.0, 0.0, 0.0, 20.0, 0.0, 0.8, 0.0, 0.0, 20.0, 0.0, 0.0, 0.8, 0.0, 20.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "polaroid",
+    "name": "Polaroid",
+    "description": "Classic polaroid camera effect",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.3, -0.3, 0.1, 0.0, 20.0, 0.0, 1.2, 0.1, 0.0, 10.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "cross_process",
+    "name": "Cross Process",
+    "description": "Cross-processed film look with blue shadows and yellow highlights",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.0, 0.0, 0.3, 0.0, 0.0, 0.0, 1.0, 0.3, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 60.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "bleach_bypass",
+    "name": "Bleach Bypass",
+    "description": "High contrast, low saturation cinematic look",
+    "category": "cinematic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.5, 0.5, 0.5, 0.0, -60.0, 0.5, 1.5, 0.5, 0.0, -60.0, 0.5, 0.5, 1.5, 0.0, -60.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "night_vision",
+    "name": "Night Vision",
+    "description": "Green night vision effect",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.1, 0.4, 0.0, 0.0, 0.0, 0.3, 1.0, 0.3, 0.0, 0.0, 0.0, 0.4, 0.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "technicolor",
+    "name": "Technicolor",
+    "description": "Vibrant technicolor film effect",
+    "category": "cinematic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.3, -0.2, -0.1, 0.0, -20.0, -0.1, 1.2, -0.1, 0.0, -20.0, -0.1, -0.2, 1.3, 0.0, -20.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "kodachrome",
+    "name": "Kodachrome",
+    "description": "Classic Kodachrome film look",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 30.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "lomo",
+    "name": "Lomo",
+    "description": "Lomography camera effect with vignette",
+    "category": "vintage",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.2, -20.0
+    ]
+  },
+  {
+    "id": "red_overlay",
+    "name": "Red Overlay",
+    "description": "Strong red tint overlay",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 100.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "blue_overlay",
+    "name": "Blue Overlay",
+    "description": "Strong blue tint overlay",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 100.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "green_overlay",
+    "name": "Green Overlay",
+    "description": "Strong green tint overlay",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 100.0, 0.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "invert",
+    "name": "Invert",
+    "description": "Inverted colors effect",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      -1.0, 0.0, 0.0, 0.0, 255.0, 0.0, -1.0, 0.0, 0.0, 255.0, 0.0, 0.0, -1.0, 0.0, 255.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "duotone_blue_yellow",
+    "name": "Duotone Blue-Yellow",
+    "description": "Duotone effect with blue shadows and yellow highlights",
+    "category": "duotone",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.2, 0.5, 0.3, 0.0, 0.0, 0.2, 0.5, 0.3, 0.0, 0.0, 0.6, 0.0, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "duotone_purple_green",
+    "name": "Duotone Purple-Green",
+    "description": "Duotone effect with purple shadows and green highlights",
+    "category": "duotone",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.4, 0.2, 0.4, 0.0, 0.0, 0.2, 0.6, 0.2, 0.0, 0.0, 0.4, 0.2, 0.4, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "duotone_red_blue",
+    "name": "Duotone Red-Blue",
+    "description": "Duotone effect with red shadows and blue highlights",
+    "category": "duotone",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.6, 0.2, 0.2, 0.0, 0.0, 0.2, 0.2, 0.6, 0.0, 0.0, 0.2, 0.6, 0.2, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "description": "Futuristic cyberpunk look with neon colors",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.5, 0.0, 0.0, 0.0, 0.8, 0.2, 0.0, 20.0, 0.5, 0.0, 1.0, 0.0, 30.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "pastel",
+    "name": "Pastel",
+    "description": "Soft pastel colors effect",
+    "category": "creative",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.8, 0.1, 0.1, 0.0, 40.0, 0.1, 0.8, 0.1, 0.0, 40.0, 0.1, 0.1, 0.8, 0.0, 40.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "moonlight",
+    "name": "Moonlight",
+    "description": "Soft blue moonlight effect",
+    "category": "tones",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.7, 0.0, 0.3, 0.0, 0.0, 0.0, 0.7, 0.3, 0.0, 0.0, 0.3, 0.3, 1.0, 0.0, 30.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "sunset",
+    "name": "Sunset",
+    "description": "Warm sunset colors",
+    "category": "tones",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.2, 0.2, 0.0, 0.0, 30.0, 0.0, 0.8, 0.2, 0.0, 0.0, 0.0, 0.0, 0.8, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "film_noir",
+    "name": "Film Noir",
+    "description": "High contrast black and white film noir look",
+    "category": "cinematic",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      0.4, 0.4, 0.2, 0.0, -30.0, 0.4, 0.4, 0.2, 0.0, -30.0, 0.4, 0.4, 0.2, 0.0, -30.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "clarendon",
+    "name": "Clarendon",
+    "description": "Instagram-inspired Clarendon filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.2, 0.0, 0.0, 0.0, -10.0, 0.0, 1.0, 0.0, 0.0, 10.0, 0.0, 0.0, 1.2, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "gingham",
+    "name": "Gingham",
+    "description": "Instagram-inspired Gingham filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [0.9, 0.1, 0.0, 0.0, 0.0, 0.0, 0.9, 0.1, 0.0, 0.0, 0.1, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "juno",
+    "name": "Juno",
+    "description": "Instagram-inspired Juno filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.1, 0.0, 0.0, 0.0, 10.0, 0.0, 1.0, 0.0, 0.0, 10.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "lark",
+    "name": "Lark",
+    "description": "Instagram-inspired Lark filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 10.0, 0.0, 1.1, 0.0, 0.0, 0.0, 0.0, 0.0, 0.9, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "mayfair",
+    "name": "Mayfair",
+    "description": "Instagram-inspired Mayfair filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 10.0, 0.0, 1.1, 0.0, 0.0, 10.0, 0.0, 0.0, 1.1, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "description": "Instagram-inspired Sierra filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 10.0, 0.0, 0.9, 0.1, 0.0, 10.0, 0.0, 0.1, 0.9, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "valencia",
+    "name": "Valencia",
+    "description": "Instagram-inspired Valencia filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [1.1, 0.0, 0.0, 0.0, 10.0, 0.0, 1.1, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0]
+  },
+  {
+    "id": "walden",
+    "name": "Walden",
+    "description": "Instagram-inspired Walden filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 10.0, 0.0, 1.1, 0.0, 0.0, 10.0, 0.0, 0.0, 0.9, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "xpro2",
+    "name": "X-Pro II",
+    "description": "Instagram-inspired X-Pro II filter",
+    "category": "social",
+    "type": "COLOR_MATRIX",
+    "colorMatrix": [
+      1.0, 0.0, 0.0, 0.0, 10.0, 0.0, 1.0, 0.0, 0.0, 10.0, 0.0, 0.0, 1.0, 0.0, 10.0, 0.0, 0.0, 0.0, 1.0, 0.0
+    ]
+  },
+  {
+    "id": "cinematic_teal_orange",
+    "name": "Cinematic Teal-Orange",
+    "description": "Hollywood-style teal and orange color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "teal_orange.png"
+  },
+  {
+    "id": "fuji_pro400h",
+    "name": "Fuji Pro 400H",
+    "description": "Fuji Pro 400H film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "fuji_pro400h.png"
+  },
+  {
+    "id": "kodak_portra_400",
+    "name": "Kodak Portra 400",
+    "description": "Kodak Portra 400 film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "kodak_portra_400.png"
+  },
+  {
+    "id": "kodak_gold_200",
+    "name": "Kodak Gold 200",
+    "description": "Kodak Gold 200 film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "kodak_gold_200.png"
+  },
+  {
+    "id": "ilford_hp5",
+    "name": "Ilford HP5",
+    "description": "Ilford HP5 black and white film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "ilford_hp5.png"
+  },
+  {
+    "id": "cinestill_800t",
+    "name": "CineStill 800T",
+    "description": "CineStill 800T tungsten film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "cinestill_800t.png"
+  },
+  {
+    "id": "lomo_purple",
+    "name": "Lomochrome Purple",
+    "description": "Lomochrome Purple film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "lomo_purple.png"
+  },
+  {
+    "id": "fuji_velvia",
+    "name": "Fuji Velvia",
+    "description": "Fuji Velvia slide film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "fuji_velvia.png"
+  },
+  {
+    "id": "ektachrome",
+    "name": "Ektachrome",
+    "description": "Kodak Ektachrome slide film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "ektachrome.png"
+  },
+  {
+    "id": "polaroid_sx70",
+    "name": "Polaroid SX-70",
+    "description": "Polaroid SX-70 instant film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "polaroid_sx70.png"
+  },
+  {
+    "id": "polaroid_600",
+    "name": "Polaroid 600",
+    "description": "Polaroid 600 instant film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "polaroid_600.png"
+  },
+  {
+    "id": "instax_mini",
+    "name": "Instax Mini",
+    "description": "Fujifilm Instax Mini instant film emulation",
+    "category": "film",
+    "type": "LUT",
+    "lutPath": "instax_mini.png"
+  },
+  {
+    "id": "hollywood_blockbuster",
+    "name": "Hollywood Blockbuster",
+    "description": "Modern Hollywood blockbuster color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "hollywood_blockbuster.png"
+  },
+  {
+    "id": "horror_film",
+    "name": "Horror Film",
+    "description": "Horror movie color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "horror_film.png"
+  },
+  {
+    "id": "sci_fi",
+    "name": "Sci-Fi",
+    "description": "Science fiction movie color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "sci_fi.png"
+  },
+  {
+    "id": "western",
+    "name": "Western",
+    "description": "Western movie color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "western.png"
+  },
+  {
+    "id": "noir_detective",
+    "name": "Noir Detective",
+    "description": "Film noir detective movie color grading",
+    "category": "cinematic",
+    "type": "LUT",
+    "lutPath": "noir_detective.png"
+  },
+  {
+    "id": "cyberpunk_2077",
+    "name": "Cyberpunk 2077",
+    "description": "Cyberpunk 2077 game-inspired color grading",
+    "category": "gaming",
+    "type": "LUT  \"Cyberpunk 2077 game-inspired color grading",
+    "category": "gaming",
+    "type": "LUT",
+    "lutPath": "cyberpunk_2077.png"
+  },
+  {
+    "id": "gta_vice_city",
+    "name": "GTA Vice City",
+    "description": "GTA Vice City game-inspired neon color grading",
+    "category": "gaming",
+    "type": "LUT",
+    "lutPath": "gta_vice_city.png"
+  },
+  {
+    "id": "battlefield",
+    "name": "Battlefield",
+    "description": "Battlefield game-inspired color grading",
+    "category": "gaming",
+    "type": "LUT",
+    "lutPath": "battlefield.png"
+  },
+  {
+    "id": "fallout",
+    "name": "Fallout",
+    "description": "Fallout game-inspired post-apocalyptic color grading",
+    "category": "gaming",
+    "type": "LUT",
+    "lutPath": "fallout.png"
+  },
+  {
+    "id": "minecraft",
+    "name": "Minecraft",
+    "description": "Minecraft game-inspired vibrant color grading",
+    "category": "gaming",
+    "type": "LUT",
+    "lutPath": "minecraft.png"
+  },
+  {
+    "id": "hdr_effect",
+    "name": "HDR Effect",
+    "description": "High Dynamic Range effect",
+    "category": "creative",
+    "type": "LUT",
+    "lutPath": "hdr_effect.png"
+  },
+  {
+    "id": "infrared",
+    "name": "Infrared",
+    "description": "Infrared photography effect",
+    "category": "creative",
+    "type": "LUT",
+    "lutPath": "infrared.png"
+  },
+  {
+    "id": "underwater",
+    "name": "Underwater",
+    "description": "Underwater photography effect",
+    "category": "creative",
+    "type": "LUT",
+    "lutPath": "underwater.png"
+  },
+  {
+    "id": "autumn",
+    "name": "Autumn",
+    "description": "Warm autumn colors",
+    "category": "seasons",
+    "type": "LUT",
+    "lutPath": "autumn.png"
+  },
+  {
+    "id": "winter",
+    "name": "Winter",
+    "description": "Cold winter colors",
+    "category": "seasons",
+    "type": "LUT",
+    "lutPath": "winter.png"
+  },
+  {
+    "id": "spring",
+    "name": "Spring",
+    "description": "Fresh spring colors",
+    "category": "seasons",
+    "type": "LUT",
+    "lutPath": "spring.png"
+  },
+  {
+    "id": "summer",
+    "name": "Summer",
+    "description": "Vibrant summer colors",
+    "category": "seasons",
+    "type": "LUT",
+    "lutPath": "summer.png"
+  },
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "description": "Tokyo city neon lights color grading",
+    "category": "travel",
+    "type": "LUT",
+    "lutPath": "tokyo.png"
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "description": "Paris romantic color grading",
+    "category": "travel",
+    "type": "LUT",
+    "lutPath": "paris.png"
+  },
+  {
+    "id": "new_york",
+    "name": "New York",
+    "description": "New York city urban color grading",
+    "category": "travel",
+    "type": "LUT",
+    "lutPath": "new_york.png"
+  },
+  {
+    "id": "dubai",
+    "name": "Dubai",
+    "description": "Dubai luxury color grading",
+    "category": "travel",
+    "type": "LUT",
+    "lutPath": "dubai.png"
+  },
+  {
+    "id": "bali",
+    "name": "Bali",
+    "description": "Bali tropical paradise color grading",
+    "category": "travel",
+    "type": "LUT",
+    "lutPath": "bali.png"
+  }
+]
